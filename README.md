@@ -19,4 +19,4 @@ peu de temps --> https://www.youtube.com/watch?v=6dtN20Y2FEk <br />
 un peu plus  --> https://www.youtube.com/watch?v=DNGxs_5K9h0
 <br><br>
 ps : spéciale dédicace à 
-<img align="center" src="https://fontmeme.com/permalink/190124/2850d0c58d669c550fae1fcd64469ae1.png" alt="polices-de-graffitis" border="0">
+<center><img src="https://fontmeme.com/permalink/190124/2850d0c58d669c550fae1fcd64469ae1.png" alt="polices-de-graffitis" border="0"></center>
