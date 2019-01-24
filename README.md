@@ -1,4 +1,4 @@
-<h1 style="text-align:center";> :seedling: Ruby_files :seedling: </h1>
+<h1 align="center"> :seedling: Ruby_files :seedling: </h1>
 <p>Un Tic Tac Toe en ruby !! 😲<br/>
 Alors qu'il aurait été si simple de se munir d'une feuille et d'un stylo, les participants du Hacking Project se sont cassés les dents durant des heures devant leur PC, pour créer le jeu de l'année.<br/>
 <br/>
@@ -19,4 +19,4 @@ peu de temps --> https://www.youtube.com/watch?v=6dtN20Y2FEk <br />
 un peu plus  --> https://www.youtube.com/watch?v=DNGxs_5K9h0
 <br><br>
 ps : spéciale dédicace à 
-<img style="text-align:center" src="https://fontmeme.com/permalink/190124/2850d0c58d669c550fae1fcd64469ae1.png" alt="polices-de-graffitis" border="0">
+<img align="center" src="https://fontmeme.com/permalink/190124/2850d0c58d669c550fae1fcd64469ae1.png" alt="polices-de-graffitis" border="0">
